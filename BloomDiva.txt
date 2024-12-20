@@ -1,0 +1,4 @@
+Bloom Diva the Melodious Choir
+Atk 1000
+Def 2000
+Effect: Reflect Shoot
